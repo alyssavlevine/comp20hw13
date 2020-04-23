@@ -1,0 +1,8 @@
+{
+  "name": "comp20",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "lookup.js",
+  "engines": {
+    "node": "12.16.2"
+  }
